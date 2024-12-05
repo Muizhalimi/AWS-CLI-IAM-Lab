@@ -47,7 +47,7 @@ aws --version
 AWS CLI version details confirmed pre-installation. 🥳
 
 **Screenshot:**
-(./assets/p3.PNG).
+[AWS CLI Version details](./assets/p3.PNG).
 
 ### 3️⃣ Configure the AWS CLI
 Configured the AWS CLI with access credentials.
@@ -64,7 +64,7 @@ Default Region: us-west-2
 Output Format: json
 
 **Screenshot:**
-Add your AWS CLI configuration screenshot here (./assets/p4.PNG).
+[AWS CLI with credentials](./assets/p4.PNG).
 
 ### 4️⃣ List IAM Users
 Retrieved the IAM users in the account.
@@ -95,7 +95,7 @@ aws iam get-policy-version --policy-arn <policy-arn> --version-id <version-id> >
 cat lab_policy.json
 
 **Screenshot:**
-(./assets/p5.PNG).
+[Retrieved policy details for the lab_policy document](./assets/p5.PNG).
 
 ##🏁 Conclusion
 This project was a fantastic introduction to AWS CLI and IAM management. Here's what I achieved:
